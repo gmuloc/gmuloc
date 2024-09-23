@@ -1,0 +1,163 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/pvinci-arista/ansible-cvp/commit/a129aa4bbe19c24491d61449ec3df2184fc24cbd\"><strong>a</strong>129aa4bbe19c24491d61449ec3df2184fc24cbd</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/gmuloc/test-pr-workflow/commit/ab9b84a148bdd245c0a2a91cacee5d1e6aa3ec52\"><strong>ab</strong>9b84a148bdd245c0a2a91cacee5d1e6aa3ec52</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/aristanetworks/anta/commit/735b0435ed9fd4d46ae58e9d1d37272ecb755eb4\">735b043</a>: chore(anta): Use Ruff and remove black and flake8 (#476)\n\n---------\r\nCo-authored-by: Matthieu Tâche <tache.matthieu@gmail.com>\r\nCo-authored-by: Carl Baillargeon <carl.baillargeon@arista.com>",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" once.",
+    "body": "- <a href=\"https://github.com/gmuloc/anta-ci/commit/6db2644d2bd50b02dc8bd58f858fdead4aa677c6\">6db2644d2bd50b02dc8bd58f858f<strong>dead</strong>4aa677c6</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/aristanetworks/anta/commit/6d4f37fa38b4a31c7a5d16714a26108e18f5fecf\">6d4f37f</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/032ca146211cf310cb6af3e1914367d56ade36dd\">032ca14</a>\n- <a href=\"https://github.com/gmuloc/network-test-automation/commit/6d4f37fa38b4a31c7a5d16714a26108e18f5fecf\">6d4f37f</a>\n- <a href=\"https://github.com/gmuloc/network-test-automation/commit/032ca146211cf310cb6af3e1914367d56ade36dd\">032ca14</a>\n- <a href=\"https://github.com/pmprado/anta/commit/6d4f37fa38b4a31c7a5d16714a26108e18f5fecf\">6d4f37f</a>\n- <a href=\"https://github.com/pmprado/anta/commit/032ca146211cf310cb6af3e1914367d56ade36dd\">032ca14</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"for\".",
+    "body": "My favorite commit message words are:\n\n1. for (used 473 times)\n2. add (used 400 times)\n3. co-authored-by: (used 316 times)\n4. ci: (used 311 times)\n5. to (used 261 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd/commit/af3ea14e61cec1daaf2cc492a1bc62b4110515c5\">af3ea14</a>: Fix(eos_cli_config_gen): Do not render entries with only sequence number from ip_access_list (#4492)\n- <a href=\"https://github.com/gmuloc/avd/commit/8cd95b8e7fbda4b681fa438622dae3f58a71f248\">8cd95b8</a>: Fix(eos_designs): Use CP-Profile for WAN HA when DP-Profile is not configured (#4309)",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd/commit/20f7c7e3188b09761cdb16bf30fa95c729201f85\">20f7c7e</a>: Fix(eos_designs): Do not KeyError when no path-group is in common with pathfinder (#3512)\n- <a href=\"https://github.com/gmuloc/avd/commit/cd7a5e10145bbdad522d9ac5ab6c554d28f28857\">cd7a5e1</a>: Fix(eos_cli_config_gen): Various fixes for router path-selection & application-traffic-recognition (#3504)\n- <a href=\"https://github.com/gmuloc/avd/commit/8495b94e21cbc45386ef2a10019e3d1d87b0a586\">8495b94</a>: Fix(eos_cli_config_gen): Reordering router adaptive-virtual-topology / router path-selection (#3505)",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd/commit/fca0ca256b2277b3475832637568f70e42e8274b\">fca0ca2</a>: Fix(eos_designs): Remove the remaining trailing slashes in schema (#3961)\n\nCo-authored-by: Claus Holbech <holbech@arista.com>\n- <a href=\"https://github.com/gmuloc/avd/commit/24595e41c5fce9d0042ea9bd150aadd12f61df66\">24595e4</a>: Fix(eos_designs): Sanitize interface name in STUN profile name (#3949)\n- <a href=\"https://github.com/gmuloc/avd/commit/2583b88a0d9c99bf0ace0aafef4520b6cac161c2\">2583b88</a>: Fix(eos_designs): Wrong IPsec profile name for Zscaler (#3948)\n\nCo-authored-by: Claus Holbech <holbech@arista.com>\n- <a href=\"https://github.com/gmuloc/avd/commit/ab95223ae6e2562e18a4ece87cc01e8da4dbb5dd\">ab95223</a>: Fix(eos_designs): Make WAN RRs route-reflector clients of each other (#3921)",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd/commit/ab693585ccbe9d7f94931034c68e23db32d968e0\">ab69358</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd/commit/ab693585ccbe9d7f94931034c68e23db32d968e0\">ab69358</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "old-issue-1",
+    "tier": 1,
+    "desc": "I closed an issue that was open for a year",
+    "body": "Issues:\n\n- <a href=\"https://github.com/aristanetworks/j2lint/issues/40\">#40</a>: Doc: j2lint CLI fails when passing FILE(s) after `-i` flag\n- <a href=\"https://github.com/aristanetworks/avd/issues/1953\">#1953</a>: Feat(eos_cli_config_gen): add support for `logging event storm-control discards *`\n- <a href=\"https://github.com/aristanetworks/ansible-cvp/issues/515\">#515</a>: dhcp_configuration role does not work as expected when using tags=provision\n- <a href=\"https://github.com/aristanetworks/avd/issues/2768\">#2768</a>: Add parenthesis syntax for interface ranges\n- <a href=\"https://github.com/aristanetworks/avd/issues/2719\">#2719</a>: Feat(eos_designs): Create knobs to statically set loopback ips for every pool\n- <a href=\"https://github.com/aristanetworks/avd/issues/2432\">#2432</a>: Doc: add libyaml requirement for development",
+    "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/ansible/ansible/issues/82358\">#82358</a>: Calling `display.deprecated` with `removed=True` break the `proxy_display` method\n- <a href=\"https://github.com/aristanetworks/avd/issues/3877\">#3877</a>: Doc: Installation guide is not working in a straighforward way for users of OSX14\n- <a href=\"https://github.com/aristanetworks/anta/issues/772\">#772</a>: Handle OSError better for get-from-cvp\n- <a href=\"https://github.com/aristanetworks/anta/issues/808\">#808</a>: Better error message when using exec collect-show-tech and asyncssh cannot verify host\n- <a href=\"https://github.com/CiscoDevNet/virl2-client/issues/3\">#3</a>: create_link failing for device ios when \"next_available_interface\" is Loopback 0\n\n And many more...",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/mbj4668/yanger/pull/17\">#17</a>: Issue/augment key not mandatory",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "revert-revert-commit",
+    "tier": 0,
+    "desc": "I reverted a revert commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/aristanetworks/anta/commit/f35e64d3fe19f921773b5f06a735a53a3b6bc2c7\">f35e64d</a>\n- <a href=\"https://github.com/gmuloc/network-test-automation/commit/f35e64d3fe19f921773b5f06a735a53a3b6bc2c7\">f35e64d</a>\n- <a href=\"https://github.com/pmprado/anta/commit/f35e64d3fe19f921773b5f06a735a53a3b6bc2c7\">f35e64d</a>",
+    "image": "https://my-badges.github.io/my-badges/revert-revert-commit.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/aristanetworks/j2lint\">aristanetworks/j2lint: ★54</a>\n* <a href=\"https://github.com/aristanetworks/anta\">aristanetworks/anta: ★46</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd/commit/410b7b5d6ad88861b8ba4946ec3bd036e1b9222f\">410b7b5</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/cee707e3d1336dea5df20adf041cfe84c8039f39\">cee707e</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/1e06385c510e0833985989f5b7d24656452ff2f7\">1e06385</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/232ca913bda6ed39f43ca9945ca38cdef105b1d3\">232ca91</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/3e4b44b25399631712658039d970b49d433b9299\">3e4b44b</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/e22d311e0a5badf1fe24445f28149e169d49fef6\">e22d311</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd/commit/af3ea14e61cec1daaf2cc492a1bc62b4110515c5\">af3ea14</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/6051cd3420c44c73286b59a726c834367050e0ba\">6051cd3</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/43f7d13f4b99fbe497b8fa39f4bdf98d40133213\">43f7d13</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/7da9898acdce0514d6e7bbab20ad894a8e3212a1\">7da9898</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/9f5fa9f349036020cc0784700754671d8af02bc5\">9f5fa9f</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/e1beca7189792886027692d22723a320894bdf15\">e1beca7</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/network-test-automation/commit/35a4bdd2d75d6ee39b89ec03c1c22269b3a579f9\">35a4bdd</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/35a4bdd2d75d6ee39b89ec03c1c22269b3a579f9\">35a4bdd</a>\n- <a href=\"https://github.com/gmuloc/network-test-automation/commit/eb542afc62ca8d3e2b19e1694addef179e59dbe5\">eb542af</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/eb542afc62ca8d3e2b19e1694addef179e59dbe5\">eb542af</a>\n- <a href=\"https://github.com/gmuloc/network-test-automation/commit/b594ed7cdcb68521bd3dae679c442363c78da123\">b594ed7</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/b594ed7cdcb68521bd3dae679c442363c78da123\">b594ed7</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
