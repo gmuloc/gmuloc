@@ -5,10 +5,10 @@
 My favorite commit message words are:
 
 1. for (used 478 times)
-2. add (used 403 times)
+2. add (used 404 times)
 3. co-authored-by: (used 318 times)
 4. ci: (used 315 times)
-5. to (used 265 times)
+5. to (used 266 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
