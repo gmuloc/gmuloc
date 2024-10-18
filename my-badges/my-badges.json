@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"for\".",
-    "body": "My favorite commit message words are:\n\n1. for (used 483 times)\n2. add (used 406 times)\n3. co-authored-by: (used 328 times)\n4. ci: (used 316 times)\n5. to (used 269 times)",
+    "body": "My favorite commit message words are:\n\n1. for (used 483 times)\n2. add (used 406 times)\n3. co-authored-by: (used 330 times)\n4. ci: (used 317 times)\n5. to (used 269 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -143,7 +143,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd/commit/410b7b5d6ad88861b8ba4946ec3bd036e1b9222f\">410b7b5</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/cee707e3d1336dea5df20adf041cfe84c8039f39\">cee707e</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/1e06385c510e0833985989f5b7d24656452ff2f7\">1e06385</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/232ca913bda6ed39f43ca9945ca38cdef105b1d3\">232ca91</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/3e4b44b25399631712658039d970b49d433b9299\">3e4b44b</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/e22d311e0a5badf1fe24445f28149e169d49fef6\">e22d311</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd/commit/89701e6d933751e2b210ef500ad1948bd4e4caaa\">89701e6</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/410b7b5d6ad88861b8ba4946ec3bd036e1b9222f\">410b7b5</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/cee707e3d1336dea5df20adf041cfe84c8039f39\">cee707e</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/1e06385c510e0833985989f5b7d24656452ff2f7\">1e06385</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/232ca913bda6ed39f43ca9945ca38cdef105b1d3\">232ca91</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/3e4b44b25399631712658039d970b49d433b9299\">3e4b44b</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
