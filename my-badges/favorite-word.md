@@ -4,7 +4,7 @@
 
 My favorite commit message words are:
 
-1. for (used 485 times)
+1. for (used 486 times)
 2. add (used 407 times)
 3. co-authored-by: (used 334 times)
 4. ci: (used 317 times)
