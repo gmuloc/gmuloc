@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"for\".",
-    "body": "My favorite commit message words are:\n\n1. for (used 486 times)\n2. add (used 407 times)\n3. co-authored-by: (used 334 times)\n4. ci: (used 317 times)\n5. to (used 269 times)",
+    "body": "My favorite commit message words are:\n\n1. for (used 487 times)\n2. add (used 407 times)\n3. co-authored-by: (used 334 times)\n4. ci: (used 318 times)\n5. to (used 270 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -159,5 +159,12 @@
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/network-test-automation/commit/35a4bdd2d75d6ee39b89ec03c1c22269b3a579f9\">35a4bdd</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/35a4bdd2d75d6ee39b89ec03c1c22269b3a579f9\">35a4bdd</a>\n- <a href=\"https://github.com/gmuloc/network-test-automation/commit/eb542afc62ca8d3e2b19e1694addef179e59dbe5\">eb542af</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/eb542afc62ca8d3e2b19e1694addef179e59dbe5\">eb542af</a>\n- <a href=\"https://github.com/gmuloc/network-test-automation/commit/b594ed7cdcb68521bd3dae679c442363c78da123\">b594ed7</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/b594ed7cdcb68521bd3dae679c442363c78da123\">b594ed7</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/aristanetworks/anta/commit/595790fa6da105baed99f3a902347f86cc6ae4b5\">595790f</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/6d589cdc2eb20c1992543c38b7809f72c2c41eb9\">6d589cd</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
   }
 ]
