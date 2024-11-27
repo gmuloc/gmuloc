@@ -166,5 +166,12 @@
     "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
     "body": "Commits:\n\n- <a href=\"https://github.com/aristanetworks/anta/commit/595790fa6da105baed99f3a902347f86cc6ae4b5\">595790f</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/6d589cdc2eb20c1992543c38b7809f72c2c41eb9\">6d589cd</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/fe7195e679598a97fa56f2fe6d6e4ac7fda68bc9\">fe7195e</a>",
     "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/aristanetworks/anta/commit/27a16999ea8c8122d2f172273e666ba2031573bc\">27a1699</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/3649f54c2ee33a29da56ec0fdf2b83410635d627\">3649f54</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   }
 ]
