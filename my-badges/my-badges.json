@@ -3,21 +3,21 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/pvinci-arista/ansible-cvp/commit/a129aa4bbe19c24491d61449ec3df2184fc24cbd\"><strong>a</strong>129aa4bbe19c24491d61449ec3df2184fc24cbd</a>",
+    "body": "- <a href=\"https://github.com/aristanetworks/j2lint/commit/aa3d2f066e0b943d533b989dba7ef1b7adef8f00\"><strong>a</strong>a3d2f066e0b943d533b989dba7ef1b7adef8f00</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/gmuloc/test-pr-workflow/commit/ab9b84a148bdd245c0a2a91cacee5d1e6aa3ec52\"><strong>ab</strong>9b84a148bdd245c0a2a91cacee5d1e6aa3ec52</a>",
+    "body": "- <a href=\"https://github.com/gmuloc/avd/commit/ab95223ae6e2562e18a4ece87cc01e8da4dbb5dd\"><strong>ab</strong>95223ae6e2562e18a4ece87cc01e8da4dbb5dd</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/aristanetworks/anta/commit/735b0435ed9fd4d46ae58e9d1d37272ecb755eb4\">735b043</a>: chore(anta): Use Ruff and remove black and flake8 (#476)\n\n---------\r\nCo-authored-by: Matthieu Tâche <tache.matthieu@gmail.com>\r\nCo-authored-by: Carl Baillargeon <carl.baillargeon@arista.com>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/pmprado/anta/commit/735b0435ed9fd4d46ae58e9d1d37272ecb755eb4\">735b043</a>: chore(anta): Use Ruff and remove black and flake8 (#476)\n\n---------\r\nCo-authored-by: Matthieu Tâche <tache.matthieu@gmail.com>\r\nCo-authored-by: Carl Baillargeon <carl.baillargeon@arista.com>",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -38,14 +38,14 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/aristanetworks/anta/commit/6d4f37fa38b4a31c7a5d16714a26108e18f5fecf\">6d4f37f</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/032ca146211cf310cb6af3e1914367d56ade36dd\">032ca14</a>\n- <a href=\"https://github.com/gmuloc/network-test-automation/commit/6d4f37fa38b4a31c7a5d16714a26108e18f5fecf\">6d4f37f</a>\n- <a href=\"https://github.com/gmuloc/network-test-automation/commit/032ca146211cf310cb6af3e1914367d56ade36dd\">032ca14</a>\n- <a href=\"https://github.com/pmprado/anta/commit/6d4f37fa38b4a31c7a5d16714a26108e18f5fecf\">6d4f37f</a>\n- <a href=\"https://github.com/pmprado/anta/commit/032ca146211cf310cb6af3e1914367d56ade36dd\">032ca14</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/pmprado/anta/commit/6d4f37fa38b4a31c7a5d16714a26108e18f5fecf\">6d4f37f</a>\n- <a href=\"https://github.com/pmprado/anta/commit/032ca146211cf310cb6af3e1914367d56ade36dd\">032ca14</a>\n- <a href=\"https://github.com/gmuloc/network-test-automation/commit/6d4f37fa38b4a31c7a5d16714a26108e18f5fecf\">6d4f37f</a>\n- <a href=\"https://github.com/gmuloc/network-test-automation/commit/032ca146211cf310cb6af3e1914367d56ade36dd\">032ca14</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/6d4f37fa38b4a31c7a5d16714a26108e18f5fecf\">6d4f37f</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/032ca146211cf310cb6af3e1914367d56ade36dd\">032ca14</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"for\".",
-    "body": "My favorite commit message words are:\n\n1. for (used 492 times)\n2. add (used 411 times)\n3. co-authored-by: (used 338 times)\n4. ci: (used 319 times)\n5. to (used 270 times)",
+    "body": "My favorite commit message words are:\n\n1. for (used 492 times)\n2. add (used 412 times)\n3. co-authored-by: (used 338 times)\n4. ci: (used 319 times)\n5. to (used 270 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -98,13 +98,6 @@
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
-    "id": "old-issue-1",
-    "tier": 1,
-    "desc": "I closed an issue that was open for a year",
-    "body": "Issues:\n\n- <a href=\"https://github.com/aristanetworks/j2lint/issues/40\">#40</a>: Doc: j2lint CLI fails when passing FILE(s) after `-i` flag\n- <a href=\"https://github.com/aristanetworks/avd/issues/2432\">#2432</a>: Doc: add libyaml requirement for development",
-    "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
-  },
-  {
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
@@ -129,14 +122,14 @@
     "id": "revert-revert-commit",
     "tier": 0,
     "desc": "I reverted a revert commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/aristanetworks/anta/commit/f35e64d3fe19f921773b5f06a735a53a3b6bc2c7\">f35e64d</a>\n- <a href=\"https://github.com/gmuloc/network-test-automation/commit/f35e64d3fe19f921773b5f06a735a53a3b6bc2c7\">f35e64d</a>\n- <a href=\"https://github.com/pmprado/anta/commit/f35e64d3fe19f921773b5f06a735a53a3b6bc2c7\">f35e64d</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/pmprado/anta/commit/f35e64d3fe19f921773b5f06a735a53a3b6bc2c7\">f35e64d</a>\n- <a href=\"https://github.com/gmuloc/network-test-automation/commit/f35e64d3fe19f921773b5f06a735a53a3b6bc2c7\">f35e64d</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/f35e64d3fe19f921773b5f06a735a53a3b6bc2c7\">f35e64d</a>",
     "image": "https://my-badges.github.io/my-badges/revert-revert-commit.png"
   },
   {
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/aristanetworks/j2lint\">aristanetworks/j2lint: ★58</a>\n* <a href=\"https://github.com/aristanetworks/anta\">aristanetworks/anta: ★53</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/aristanetworks/j2lint\">aristanetworks/j2lint: ★58</a>\n* <a href=\"https://github.com/aristanetworks/anta\">aristanetworks/anta: ★55</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
