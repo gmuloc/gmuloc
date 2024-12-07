@@ -44,8 +44,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"*\".",
-    "body": "My favorite commit message words are:\n\n1. * (used 900 times)\n2. add (used 412 times)\n3. co-authored-by: (used 338 times)\n4. ci: (used 319 times)\n5. doc: (used 256 times)",
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 412 times)\n2. co-authored-by: (used 338 times)\n3. ci: (used 319 times)\n4. doc: (used 256 times)\n5. update (used 233 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
