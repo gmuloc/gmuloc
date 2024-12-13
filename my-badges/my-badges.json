@@ -17,7 +17,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/pmprado/anta/commit/735b0435ed9fd4d46ae58e9d1d37272ecb755eb4\">735b043</a>: chore(anta): Use Ruff and remove black and flake8 (#476)\n\n---------\r\nCo-authored-by: Matthieu Tâche <tache.matthieu@gmail.com>\r\nCo-authored-by: Carl Baillargeon <carl.baillargeon@arista.com>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/network-test-automation/commit/735b0435ed9fd4d46ae58e9d1d37272ecb755eb4\">735b043</a>: chore(anta): Use Ruff and remove black and flake8 (#476)\n\n---------\r\nCo-authored-by: Matthieu Tâche <tache.matthieu@gmail.com>\r\nCo-authored-by: Carl Baillargeon <carl.baillargeon@arista.com>",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -38,14 +38,14 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/pmprado/anta/commit/6d4f37fa38b4a31c7a5d16714a26108e18f5fecf\">6d4f37f</a>\n- <a href=\"https://github.com/pmprado/anta/commit/032ca146211cf310cb6af3e1914367d56ade36dd\">032ca14</a>\n- <a href=\"https://github.com/gmuloc/network-test-automation/commit/6d4f37fa38b4a31c7a5d16714a26108e18f5fecf\">6d4f37f</a>\n- <a href=\"https://github.com/gmuloc/network-test-automation/commit/032ca146211cf310cb6af3e1914367d56ade36dd\">032ca14</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/6d4f37fa38b4a31c7a5d16714a26108e18f5fecf\">6d4f37f</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/032ca146211cf310cb6af3e1914367d56ade36dd\">032ca14</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/network-test-automation/commit/6d4f37fa38b4a31c7a5d16714a26108e18f5fecf\">6d4f37f</a>\n- <a href=\"https://github.com/gmuloc/network-test-automation/commit/032ca146211cf310cb6af3e1914367d56ade36dd\">032ca14</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/6d4f37fa38b4a31c7a5d16714a26108e18f5fecf\">6d4f37f</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/032ca146211cf310cb6af3e1914367d56ade36dd\">032ca14</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 414 times)\n2. co-authored-by: (used 342 times)\n3. ci: (used 321 times)\n4. doc: (used 257 times)\n5. update (used 233 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 329 times)\n2. co-authored-by: (used 294 times)\n3. ci: (used 261 times)\n4. update (used 205 times)\n5. doc: (used 189 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -122,7 +122,7 @@
     "id": "revert-revert-commit",
     "tier": 0,
     "desc": "I reverted a revert commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/pmprado/anta/commit/f35e64d3fe19f921773b5f06a735a53a3b6bc2c7\">f35e64d</a>\n- <a href=\"https://github.com/gmuloc/network-test-automation/commit/f35e64d3fe19f921773b5f06a735a53a3b6bc2c7\">f35e64d</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/f35e64d3fe19f921773b5f06a735a53a3b6bc2c7\">f35e64d</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/network-test-automation/commit/f35e64d3fe19f921773b5f06a735a53a3b6bc2c7\">f35e64d</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/f35e64d3fe19f921773b5f06a735a53a3b6bc2c7\">f35e64d</a>",
     "image": "https://my-badges.github.io/my-badges/revert-revert-commit.png"
   },
   {
