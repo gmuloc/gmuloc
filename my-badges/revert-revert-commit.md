@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/gmuloc/network-test-automation/commit/f35e64d3fe19f921773b5f06a735a53a3b6bc2c7">f35e64d</a>
+- <a href="https://github.com/gmuloc/anta/commit/f35e64d3fe19f921773b5f06a735a53a3b6bc2c7">f35e64d</a>
 - <a href="https://github.com/aristanetworks/anta/commit/f35e64d3fe19f921773b5f06a735a53a3b6bc2c7">f35e64d</a>
 
 

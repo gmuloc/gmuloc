@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/gmuloc/network-test-automation/commit/735b0435ed9fd4d46ae58e9d1d37272ecb755eb4">735b043</a>: chore(anta): Use Ruff and remove black and flake8 (#476)
+- <a href="https://github.com/gmuloc/anta/commit/735b0435ed9fd4d46ae58e9d1d37272ecb755eb4">735b043</a>: chore(anta): Use Ruff and remove black and flake8 (#476)
 
 ---------
 Co-authored-by: Matthieu Tâche <tache.matthieu@gmail.com>

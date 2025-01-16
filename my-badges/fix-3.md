@@ -4,9 +4,49 @@
 
 Commits:
 
-- <a href="https://github.com/gmuloc/avd/commit/20f7c7e3188b09761cdb16bf30fa95c729201f85">20f7c7e</a>: Fix(eos_designs): Do not KeyError when no path-group is in common with pathfinder (#3512)
-- <a href="https://github.com/gmuloc/avd/commit/cd7a5e10145bbdad522d9ac5ab6c554d28f28857">cd7a5e1</a>: Fix(eos_cli_config_gen): Various fixes for router path-selection & application-traffic-recognition (#3504)
-- <a href="https://github.com/gmuloc/avd/commit/8495b94e21cbc45386ef2a10019e3d1d87b0a586">8495b94</a>: Fix(eos_cli_config_gen): Reordering router adaptive-virtual-topology / router path-selection (#3505)
+- <a href="https://github.com/gmuloc/anta/commit/3b979841d1f52566334d521cf55cd65bca2b2d16">3b97984</a>: fix(anta.cli): Better error handling for OSError when writing inventory (#976)
+- <a href="https://github.com/gmuloc/anta/commit/4e137295f1fa6346866035fc7f64e5f113fb5112">4e13729</a>: fix(anta.tests): Fix wrong type used for inputs for VerifyInterfaceIPv4 (#977)
+- <a href="https://github.com/gmuloc/anta/commit/4f028f565888dcfe688abff59c3f4211af25f03c">4f028f5</a>: fix(anta): Workaround to bypass resource on non-POSIX system (#919)
+
+* Fix(anta): Workaroudn to bypass resource on none posix system
+
+* ci: Add windows runner for pytest on 3.12
+
+* Refactor: Migrate to psutil
+
+* refactor: Replace resource (UNIX only) with psutil
+
+* refactor: A man reads too fast
+
+* revert: Remove psutil
+
+* Refactor: Add limitation on none POSIX system
+
+* Test: Fix tests for posix and non posix
+
+* Test: Fix da tests
+
+* Test: Fix failing test
+
+* ci: Add USERNAME env variable
+
+* ci: Pass USERNAME env variable in tox
+
+* Test: Tshoot
+
+* Test: Tshoot
+
+* ci: Escape the pain
+
+* Test: Please may it be the last update
+
+* test: Fixing newline CSV everywhere
+
+* test: Expand coverage
+
+* doc: Add FAQ entry
+
+* test: Moar coverage
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
