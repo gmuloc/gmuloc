@@ -122,7 +122,7 @@
     "id": "revert-revert-commit",
     "tier": 0,
     "desc": "I reverted a revert commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/anta/commit/f35e64d3fe19f921773b5f06a735a53a3b6bc2c7\">f35e64d</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/f35e64d3fe19f921773b5f06a735a53a3b6bc2c7\">f35e64d</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/anta/commit/f35e64d3fe19f921773b5f06a735a53a3b6bc2c7\">f35e64d</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/89bb055346173df9f05a9dae760b370b851c9a1f\">89bb055</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/f35e64d3fe19f921773b5f06a735a53a3b6bc2c7\">f35e64d</a>",
     "image": "https://my-badges.github.io/my-badges/revert-revert-commit.png"
   },
   {
@@ -178,7 +178,7 @@
     "id": "thumbs-up-10",
     "tier": 1,
     "desc": "I got more than 10 thumbs up.",
-    "body": "* <a href=\"https://github.com/ansible/ansible-lint/issues/4477\">12 👍</a>",
+    "body": "* <a href=\"https://github.com/ansible/ansible-lint/issues/4477\">13 👍</a>",
     "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
   }
 ]
