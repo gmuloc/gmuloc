@@ -4,8 +4,10 @@
 
 Commits:
 
-- <a href="https://github.com/gmuloc/avd/commit/af3ea14e61cec1daaf2cc492a1bc62b4110515c5">af3ea14</a>: Fix(eos_cli_config_gen): Do not render entries with only sequence number from ip_access_list (#4492)
-- <a href="https://github.com/gmuloc/avd/commit/8cd95b8e7fbda4b681fa438622dae3f58a71f248">8cd95b8</a>: Fix(eos_designs): Use CP-Profile for WAN HA when DP-Profile is not configured (#4309)
+- <a href="https://github.com/gmuloc/avd/commit/f4d99a80dd0c748b11dae9d82a0bc8a1ed0e06cd">f4d99a8</a>: Fix(eos_designs): Wrong structured config for overlapping network ports (#5033)
+
+Co-authored-by: Claus Holbech <holbech@arista.com>
+- <a href="https://github.com/gmuloc/avd/commit/133ac2f3c5d68e176f767c4e457fb58ed1a6858c">133ac2f</a>: Fix(eos_designs): Wrong duplicate detection between SVIs and L2VLANs (#5025)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
