@@ -7,8 +7,8 @@ I use words like "thanks" and "please" in my issues:
 - <a href="https://github.com/ansible/ansible/issues/82358">#82358</a>: Calling `display.deprecated` with `removed=True` break the `proxy_display` method
 - <a href="https://github.com/aristanetworks/avd/issues/3877">#3877</a>: Doc: Installation guide is not working in a straighforward way for users of OSX14
 - <a href="https://github.com/aristanetworks/anta/issues/808">#808</a>: Better error message when using exec collect-show-tech and asyncssh cannot verify host
+- <a href="https://github.com/boxed/mutmut/issues/366">#366</a>: Issue with `__init_subclass__` when not decorated as classmethod
 - <a href="https://github.com/CiscoDevNet/virl2-client/issues/3">#3</a>: create_link failing for device ios when "next_available_interface" is Loopback 0
-- <a href="https://github.com/aristanetworks/avd/issues/1781">#1781</a>: Support for encrypted individual variables via Ansible Vault in inventory
 
  And many more...
 
