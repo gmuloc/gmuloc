@@ -45,14 +45,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 365 times)\n2. co-authored-by: (used 334 times)\n3. update (used 233 times)\n4. doc: (used 219 times)\n5. fix (used 196 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 368 times)\n2. co-authored-by: (used 350 times)\n3. update (used 234 times)\n4. doc: (used 219 times)\n5. fix (used 196 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd/commit/f4d99a80dd0c748b11dae9d82a0bc8a1ed0e06cd\">f4d99a8</a>: Fix(eos_designs): Wrong structured config for overlapping network ports (#5033)\n\nCo-authored-by: Claus Holbech <holbech@arista.com>\n- <a href=\"https://github.com/gmuloc/avd/commit/133ac2f3c5d68e176f767c4e457fb58ed1a6858c\">133ac2f</a>: Fix(eos_designs): Wrong duplicate detection between SVIs and L2VLANs (#5025)",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd/commit/a5b686dafdc22996a7e3ba26ab9d58d63ece0ae1\">a5b686d</a>: Fix(eos_designs): Raise again on conflicting ethernet interfaces under point-to-point services (#5058)\n- <a href=\"https://github.com/gmuloc/avd/commit/ea452319a480f5f59c969e89b2cc23a2d09b40fa\">ea45231</a>: Fix(eos_designs): Better error message when no ip address configured on a l3_interface on wan_router (#5068)",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -143,7 +143,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd/commit/b96522327096ef8982b82fcdf3c8a9a3f9bc3b13\">b965223</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/af3ea14e61cec1daaf2cc492a1bc62b4110515c5\">af3ea14</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/6051cd3420c44c73286b59a726c834367050e0ba\">6051cd3</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/43f7d13f4b99fbe497b8fa39f4bdf98d40133213\">43f7d13</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/7da9898acdce0514d6e7bbab20ad894a8e3212a1\">7da9898</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/9f5fa9f349036020cc0784700754671d8af02bc5\">9f5fa9f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd/commit/8762eb031a6a792a37f85152d6e886e8dd1166f4\">8762eb0</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/b96522327096ef8982b82fcdf3c8a9a3f9bc3b13\">b965223</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/af3ea14e61cec1daaf2cc492a1bc62b4110515c5\">af3ea14</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/6051cd3420c44c73286b59a726c834367050e0ba\">6051cd3</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/43f7d13f4b99fbe497b8fa39f4bdf98d40133213\">43f7d13</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/7da9898acdce0514d6e7bbab20ad894a8e3212a1\">7da9898</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {

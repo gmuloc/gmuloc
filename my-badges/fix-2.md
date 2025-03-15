@@ -4,10 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/gmuloc/avd/commit/f4d99a80dd0c748b11dae9d82a0bc8a1ed0e06cd">f4d99a8</a>: Fix(eos_designs): Wrong structured config for overlapping network ports (#5033)
-
-Co-authored-by: Claus Holbech <holbech@arista.com>
-- <a href="https://github.com/gmuloc/avd/commit/133ac2f3c5d68e176f767c4e457fb58ed1a6858c">133ac2f</a>: Fix(eos_designs): Wrong duplicate detection between SVIs and L2VLANs (#5025)
+- <a href="https://github.com/gmuloc/avd/commit/a5b686dafdc22996a7e3ba26ab9d58d63ece0ae1">a5b686d</a>: Fix(eos_designs): Raise again on conflicting ethernet interfaces under point-to-point services (#5058)
+- <a href="https://github.com/gmuloc/avd/commit/ea452319a480f5f59c969e89b2cc23a2d09b40fa">ea45231</a>: Fix(eos_designs): Better error message when no ip address configured on a l3_interface on wan_router (#5068)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
