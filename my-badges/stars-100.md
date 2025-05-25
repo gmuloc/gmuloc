@@ -5,7 +5,7 @@
 Repos:
 
 * <a href="https://github.com/aristanetworks/anta">aristanetworks/anta: ★67</a>
-* <a href="https://github.com/aristanetworks/j2lint">aristanetworks/j2lint: ★63</a>
+* <a href="https://github.com/aristanetworks/j2lint">aristanetworks/j2lint: ★64</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
