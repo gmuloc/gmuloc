@@ -3,6 +3,7 @@
 <br><br>
 
 * <a href="https://github.com/aristanetworks/avd/pull/4969#issuecomment-2633180706">👍</a>
+* <a href="https://github.com/aristanetworks/avd/pull/5360#issuecomment-2969568744">👍</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
