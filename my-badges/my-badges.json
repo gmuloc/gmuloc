@@ -101,7 +101,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/ansible/ansible/issues/82358\">#82358</a>: Calling `display.deprecated` with `removed=True` break the `proxy_display` method\n- <a href=\"https://github.com/aristanetworks/avd/issues/3877\">#3877</a>: Doc: Installation guide is not working in a straighforward way for users of OSX14\n- <a href=\"https://github.com/boxed/mutmut/issues/366\">#366</a>: Issue with `__init_subclass__` when not decorated as classmethod\n- <a href=\"https://github.com/CiscoDevNet/virl2-client/issues/3\">#3</a>: create_link failing for device ios when \"next_available_interface\" is Loopback 0\n- <a href=\"https://github.com/aristanetworks/avd/issues/1781\">#1781</a>: Support for encrypted individual variables via Ansible Vault in inventory\n\n And many more...",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/aristanetworks/avd/issues/3877\">#3877</a>: Doc: Installation guide is not working in a straighforward way for users of OSX14\n- <a href=\"https://github.com/boxed/mutmut/issues/366\">#366</a>: Issue with `__init_subclass__` when not decorated as classmethod\n- <a href=\"https://github.com/CiscoDevNet/virl2-client/issues/3\">#3</a>: create_link failing for device ios when \"next_available_interface\" is Loopback 0\n- <a href=\"https://github.com/aristanetworks/avd/issues/1781\">#1781</a>: Support for encrypted individual variables via Ansible Vault in inventory\n- <a href=\"https://github.com/ansible/molecule/issues/3527\">#3527</a>: Ansible Verifier does not pass its env variables to the verify step\n\n And many more...",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
@@ -129,7 +129,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/aristanetworks/j2lint\">aristanetworks/j2lint: ★71</a>\n* <a href=\"https://github.com/aristanetworks/anta\">aristanetworks/anta: ★68</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/aristanetworks/j2lint\">aristanetworks/j2lint: ★72</a>\n* <a href=\"https://github.com/aristanetworks/anta\">aristanetworks/anta: ★69</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
