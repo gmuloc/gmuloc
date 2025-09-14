@@ -201,5 +201,12 @@
     "desc": "I commit in the Summer solstice.",
     "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd/commit/aa4fe52883cafa8753450fc9de0d707353f2278f\">aa4fe52</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/c71bcb2bfe663594ee3569b5b89098755709c929\">c71bcb2</a>",
     "image": "https://my-badges.github.io/my-badges/summer-solstice-commits.png"
+  },
+  {
+    "id": "programmers-day",
+    "tier": 0,
+    "desc": "Happy Programmers Day! I committed on a 256 Day of Year!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/anta/commit/a80f788f0409a9cfc641095d9bb307af2ca48f8f\">a80f788</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/a80f788f0409a9cfc641095d9bb307af2ca48f8f\">a80f788</a>\n- <a href=\"https://github.com/gmuloc/anta/commit/c22fe672d2fad96d278cd4aa7746325ef1773e7d\">c22fe67</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/c22fe672d2fad96d278cd4aa7746325ef1773e7d\">c22fe67</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/46aa32a070914a825f5f202ef2550a56e162a07a\">46aa32a</a>",
+    "image": "https://my-badges.github.io/my-badges/programmers-day.png"
   }
 ]
