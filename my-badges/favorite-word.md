@@ -1,12 +1,12 @@
-<img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="128">
-<strong>My favorite word is &quot;add&quot;.</strong>
+<img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;co-authored-by:&quot;." title="My favorite word is &quot;co-authored-by:&quot;." width="128">
+<strong>My favorite word is &quot;co-authored-by:&quot;.</strong>
 <br><br>
 
 My favorite commit message words are:
 
-1. add (used 396 times)
-2. co-authored-by: (used 390 times)
-3. update (used 308 times)
+1. co-authored-by: (used 408 times)
+2. add (used 397 times)
+3. update (used 309 times)
 4. doc: (used 235 times)
 5. fix (used 211 times)
 
