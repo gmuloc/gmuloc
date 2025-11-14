@@ -4,11 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/gmuloc/anta/commit/735b0435ed9fd4d46ae58e9d1d37272ecb755eb4">735b043</a>: chore(anta): Use Ruff and remove black and flake8 (#476)
-
----------
-Co-authored-by: Matthieu Tâche <tache.matthieu@gmail.com>
-Co-authored-by: Carl Baillargeon <carl.baillargeon@arista.com>
+- <a href="https://github.com/gmuloc/anta/commit/083d51f537900e8803135f0e1fb010c8598af721">083d51f</a>: chore(anta): Add deprecation on deprecated method (#1066)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
