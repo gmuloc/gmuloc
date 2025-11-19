@@ -10,7 +10,7 @@
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/gmuloc/avd/commit/ab95223ae6e2562e18a4ece87cc01e8da4dbb5dd\"><strong>ab</strong>95223ae6e2562e18a4ece87cc01e8da4dbb5dd</a>",
+    "body": "- <a href=\"https://github.com/aristanetworks/j2lint/commit/ab1260e843e78abd0dabbdd612f81b80e594bce8\"><strong>ab</strong>1260e843e78abd0dabbdd612f81b80e594bce8</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"co-authored-by:\".",
-    "body": "My favorite commit message words are:\n\n1. co-authored-by: (used 432 times)\n2. add (used 405 times)\n3. update (used 334 times)\n4. doc: (used 256 times)\n5. merge (used 226 times)",
+    "body": "My favorite commit message words are:\n\n1. co-authored-by: (used 432 times)\n2. add (used 405 times)\n3. update (used 334 times)\n4. doc: (used 256 times)\n5. merge (used 227 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -122,7 +122,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/aristanetworks/j2lint\">aristanetworks/j2lint: ★95</a>\n* <a href=\"https://github.com/aristanetworks/anta\">aristanetworks/anta: ★73</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/aristanetworks/j2lint\">aristanetworks/j2lint: ★96</a>\n* <a href=\"https://github.com/aristanetworks/anta\">aristanetworks/anta: ★73</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
