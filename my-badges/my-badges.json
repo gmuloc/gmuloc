@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"co-authored-by:\".",
-    "body": "My favorite commit message words are:\n\n1. co-authored-by: (used 432 times)\n2. add (used 408 times)\n3. update (used 334 times)\n4. doc: (used 257 times)\n5. merge (used 231 times)",
+    "body": "My favorite commit message words are:\n\n1. co-authored-by: (used 432 times)\n2. add (used 413 times)\n3. update (used 338 times)\n4. doc: (used 260 times)\n5. merge (used 232 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -122,7 +122,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/aristanetworks/j2lint\">aristanetworks/j2lint: ★98</a>\n* <a href=\"https://github.com/aristanetworks/anta\">aristanetworks/anta: ★73</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/aristanetworks/j2lint\">aristanetworks/j2lint: ★98</a>\n* <a href=\"https://github.com/aristanetworks/anta\">aristanetworks/anta: ★74</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
@@ -136,7 +136,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/j2lint/commit/e7a298fa46f1b2d7e5441adc679a7f97c8db24ef\">e7a298f</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/e7a298fa46f1b2d7e5441adc679a7f97c8db24ef\">e7a298f</a>\n- <a href=\"https://github.com/gmuloc/j2lint/commit/060a036b37dfb63273b5b2f96aab2e7e479e62f5\">060a036</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/060a036b37dfb63273b5b2f96aab2e7e479e62f5\">060a036</a>\n- <a href=\"https://github.com/gmuloc/j2lint/commit/ef5423735bf9ece45df096c2358966df3ce9ba11\">ef54237</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/ef5423735bf9ece45df096c2358966df3ce9ba11\">ef54237</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/pyavd-utils/commit/a03b6c8644adbdfc6eaf39492706938e68adbb8b\">a03b6c8</a>\n- <a href=\"https://github.com/gmuloc/j2lint/commit/e7a298fa46f1b2d7e5441adc679a7f97c8db24ef\">e7a298f</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/e7a298fa46f1b2d7e5441adc679a7f97c8db24ef\">e7a298f</a>\n- <a href=\"https://github.com/gmuloc/j2lint/commit/060a036b37dfb63273b5b2f96aab2e7e479e62f5\">060a036</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/060a036b37dfb63273b5b2f96aab2e7e479e62f5\">060a036</a>\n- <a href=\"https://github.com/gmuloc/j2lint/commit/ef5423735bf9ece45df096c2358966df3ce9ba11\">ef54237</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
