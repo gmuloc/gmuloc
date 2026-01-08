@@ -122,7 +122,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/aristanetworks/j2lint\">aristanetworks/j2lint: ★98</a>\n* <a href=\"https://github.com/aristanetworks/anta\">aristanetworks/anta: ★74</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/aristanetworks/j2lint\">aristanetworks/j2lint: ★99</a>\n* <a href=\"https://github.com/aristanetworks/anta\">aristanetworks/anta: ★74</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
@@ -240,7 +240,7 @@
   {
     "id": "may-the-4th",
     "tier": 0,
-    "desc": "May the 4th be with you! Commits of force:",
+    "desc": "May the 4th be with you!",
     "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/anta/commit/a3247d12fcfc06cfac86af6f6b8b0347ea8d170c\">a3247d1</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/a3247d12fcfc06cfac86af6f6b8b0347ea8d170c\">a3247d1</a>\n- <a href=\"https://github.com/gmuloc/anta/commit/884beaf27d5415f7def6c26a044100c009ac119c\">884beaf</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/884beaf27d5415f7def6c26a044100c009ac119c\">884beaf</a>\n- <a href=\"https://github.com/gmuloc/gmuloc.github.io/commit/588e178c6af2a7b9702951511f010e59490c5f25\">588e178</a>\n- <a href=\"https://github.com/gmuloc/gmuloc.github.io/commit/8d73388ddeb782c911fd9fa7c66691549d950645\">8d73388</a>",
     "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
   },
@@ -257,5 +257,19 @@
     "desc": "I committed on St. Patrick's Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/j2lint/commit/56437dbd183cf035c133503d672ac85a2f8c75c5\">56437db</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/56437dbd183cf035c133503d672ac85a2f8c75c5\">56437db</a>\n- <a href=\"https://github.com/gmuloc/j2lint/commit/78e4b5c0243d7d11fbeb08e813ebf072eefff150\">78e4b5c</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/78e4b5c0243d7d11fbeb08e813ebf072eefff150\">78e4b5c</a>\n- <a href=\"https://github.com/gmuloc/j2lint/commit/1ed5085ebd3a22841eb6527338043662e379183b\">1ed5085</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/1ed5085ebd3a22841eb6527338043662e379183b\">1ed5085</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/j2lint/commit/9e84572eae6347ebbcb631314540da01b981d407\">9e84572</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/9e84572eae6347ebbcb631314540da01b981d407\">9e84572</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/9113dd9a54753b7fc03cece147c8f5766b966f92\">9113dd9</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/dc149667c899d7eed6f17836c1f41db7b05d5f4d\">dc14966</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/b551017143911437fdeb990b78bdd6964b7789b7\">b551017</a>\n- <a href=\"https://github.com/gmuloc/j2lint/commit/83a347d31d0cfb2dc7b34639bc150fcf5638efb3\">83a347d</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/83a347d31d0cfb2dc7b34639bc150fcf5638efb3\">83a347d</a>\n- <a href=\"https://github.com/gmuloc/j2lint/commit/2fa18e81ce59fbe0be97a2541745fb0bf9500cd5\">2fa18e8</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   }
 ]
