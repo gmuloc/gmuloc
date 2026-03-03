@@ -31,14 +31,14 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/anta/commit/4f028f565888dcfe688abff59c3f4211af25f03c\">4f028f5</a>\n- <a href=\"https://github.com/gmuloc/anta/commit/6d4f37fa38b4a31c7a5d16714a26108e18f5fecf\">6d4f37f</a>\n- <a href=\"https://github.com/gmuloc/anta/commit/032ca146211cf310cb6af3e1914367d56ade36dd\">032ca14</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/4f028f565888dcfe688abff59c3f4211af25f03c\">4f028f5</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/6d4f37fa38b4a31c7a5d16714a26108e18f5fecf\">6d4f37f</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/032ca146211cf310cb6af3e1914367d56ade36dd\">032ca14</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/anta/commit/4f028f565888dcfe688abff59c3f4211af25f03c\">4f028f5</a>\n- <a href=\"https://github.com/gmuloc/anta/commit/6d4f37fa38b4a31c7a5d16714a26108e18f5fecf\">6d4f37f</a>\n- <a href=\"https://github.com/gmuloc/anta/commit/032ca146211cf310cb6af3e1914367d56ade36dd\">032ca14</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/019ef6d5697cb03ff57d58070b50aec3be6316de\">019ef6d</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/4f028f565888dcfe688abff59c3f4211af25f03c\">4f028f5</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/6d4f37fa38b4a31c7a5d16714a26108e18f5fecf\">6d4f37f</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/032ca146211cf310cb6af3e1914367d56ade36dd\">032ca14</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"co-authored-by:\".",
-    "body": "My favorite commit message words are:\n\n1. co-authored-by: (used 432 times)\n2. add (used 421 times)\n3. update (used 345 times)\n4. merge (used 279 times)\n5. doc: (used 262 times)",
+    "body": "My favorite commit message words are:\n\n1. co-authored-by: (used 556 times)\n2. add (used 430 times)\n3. update (used 346 times)\n4. merge (used 282 times)\n5. doc: (used 267 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -80,7 +80,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd/commit/a26deb960d13d137ccb8b13baa187d1db04e3058\">a26deb9</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd/commit/2e0286a9cf44abfb0a099198561897729ae0a897\">2e0286a</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/aristanetworks/avd/issues/3877\">#3877</a>: Doc: Installation guide is not working in a straighforward way for users of OSX14\n- <a href=\"https://github.com/boxed/mutmut/issues/366\">#366</a>: Issue with `__init_subclass__` when not decorated as classmethod\n- <a href=\"https://github.com/aristanetworks/avd/issues/6592\">#6592</a>: Feat(pyavd): Make it possible to use both deprecated key and new key in parallel\n- <a href=\"https://github.com/CiscoDevNet/virl2-client/issues/3\">#3</a>: create_link failing for device ios when \"next_available_interface\" is Loopback 0\n- <a href=\"https://github.com/aristanetworks/avd/issues/1781\">#1781</a>: Support for encrypted individual variables via Ansible Vault in inventory\n\n And many more...",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/aristanetworks/avd/issues/3877\">#3877</a>: Doc: Installation guide is not working in a straighforward way for users of OSX14\n- <a href=\"https://github.com/boxed/mutmut/issues/366\">#366</a>: Issue with `__init_subclass__` when not decorated as classmethod\n- <a href=\"https://github.com/aristanetworks/avd/issues/6592\">#6592</a>: Feat(pyavd): Make it possible to use both deprecated key and new key in parallel\n- <a href=\"https://github.com/aristanetworks/avd/issues/6643\">#6643</a>: Refactor(eos_designs): Rebuild the models for route-targets under VRF and Vlans\n- <a href=\"https://github.com/CiscoDevNet/virl2-client/issues/3\">#3</a>: create_link failing for device ios when \"next_available_interface\" is Loopback 0\n\n And many more...",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
@@ -129,14 +129,14 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/pyavd-utils/commit/a03b6c8644adbdfc6eaf39492706938e68adbb8b\">a03b6c8</a>\n- <a href=\"https://github.com/gmuloc/j2lint/commit/e7a298fa46f1b2d7e5441adc679a7f97c8db24ef\">e7a298f</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/e7a298fa46f1b2d7e5441adc679a7f97c8db24ef\">e7a298f</a>\n- <a href=\"https://github.com/gmuloc/j2lint/commit/060a036b37dfb63273b5b2f96aab2e7e479e62f5\">060a036</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/060a036b37dfb63273b5b2f96aab2e7e479e62f5\">060a036</a>\n- <a href=\"https://github.com/gmuloc/j2lint/commit/ef5423735bf9ece45df096c2358966df3ce9ba11\">ef54237</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd/commit/0a218dd02e2ffabf6e9222264ed44551d55c38c9\">0a218dd</a>\n- <a href=\"https://github.com/gmuloc/pyavd-utils/commit/a03b6c8644adbdfc6eaf39492706938e68adbb8b\">a03b6c8</a>\n- <a href=\"https://github.com/gmuloc/j2lint/commit/e7a298fa46f1b2d7e5441adc679a7f97c8db24ef\">e7a298f</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/e7a298fa46f1b2d7e5441adc679a7f97c8db24ef\">e7a298f</a>\n- <a href=\"https://github.com/gmuloc/j2lint/commit/060a036b37dfb63273b5b2f96aab2e7e479e62f5\">060a036</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/060a036b37dfb63273b5b2f96aab2e7e479e62f5\">060a036</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/ci-workshops-avd/commit/0b39b90a58818112c39436a1fffdf19c232d2128\">0b39b90</a>\n- <a href=\"https://github.com/gmuloc/ci-workshops-avd/commit/225a4a8f3d8e91b73d46ebc873fd16126b88d0d8\">225a4a8</a>\n- <a href=\"https://github.com/gmuloc/j2lint/commit/e8c9048b942b387f23db7482877031335026e429\">e8c9048</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/e8c9048b942b387f23db7482877031335026e429\">e8c9048</a>\n- <a href=\"https://github.com/gmuloc/anta/commit/52ce2702febcbd8e0f0a8e0a093e79ea3872e424\">52ce270</a>\n- <a href=\"https://github.com/aristanetworks/anta/commit/52ce2702febcbd8e0f0a8e0a093e79ea3872e424\">52ce270</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd/commit/e2501e4c6be21dbfd27fe7cd59df789e109e4abf\">e2501e4</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/c77a2d9087ac8c04482eb3a719493095232f1444\">c77a2d9</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/9a8f117595763eff378800611f9b56ea6391d6ad\">9a8f117</a>\n- <a href=\"https://github.com/gmuloc/ci-workshops-avd/commit/0b39b90a58818112c39436a1fffdf19c232d2128\">0b39b90</a>\n- <a href=\"https://github.com/gmuloc/ci-workshops-avd/commit/225a4a8f3d8e91b73d46ebc873fd16126b88d0d8\">225a4a8</a>\n- <a href=\"https://github.com/gmuloc/j2lint/commit/e8c9048b942b387f23db7482877031335026e429\">e8c9048</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -178,7 +178,7 @@
     "id": "friday-13",
     "tier": 0,
     "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd/commit/f406ff9d1c8ece29bac2a7fa6440989ddea13a6e\">f406ff9</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/c52d2c3189ff83dbf3ff0d85f207f02c852e5acd\">c52d2c3</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/fb51d52b37170a64211509a6067b7a333358980e\">fb51d52</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd/commit/0cd5f80e2ea82b3729b2f98a930e9ed601ad6879\">0cd5f80</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/f406ff9d1c8ece29bac2a7fa6440989ddea13a6e\">f406ff9</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/c52d2c3189ff83dbf3ff0d85f207f02c852e5acd\">c52d2c3</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/fb51d52b37170a64211509a6067b7a333358980e\">fb51d52</a>",
     "image": "https://my-badges.github.io/my-badges/friday-13.png"
   },
   {

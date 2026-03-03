@@ -7,6 +7,7 @@ Commits:
 - <a href="https://github.com/gmuloc/anta/commit/4f028f565888dcfe688abff59c3f4211af25f03c">4f028f5</a>
 - <a href="https://github.com/gmuloc/anta/commit/6d4f37fa38b4a31c7a5d16714a26108e18f5fecf">6d4f37f</a>
 - <a href="https://github.com/gmuloc/anta/commit/032ca146211cf310cb6af3e1914367d56ade36dd">032ca14</a>
+- <a href="https://github.com/gmuloc/avd/commit/019ef6d5697cb03ff57d58070b50aec3be6316de">019ef6d</a>
 - <a href="https://github.com/aristanetworks/anta/commit/4f028f565888dcfe688abff59c3f4211af25f03c">4f028f5</a>
 - <a href="https://github.com/aristanetworks/anta/commit/6d4f37fa38b4a31c7a5d16714a26108e18f5fecf">6d4f37f</a>
 - <a href="https://github.com/aristanetworks/anta/commit/032ca146211cf310cb6af3e1914367d56ade36dd">032ca14</a>
