@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/aristanetworks/j2lint">aristanetworks/j2lint: ★105</a>
+* <a href="https://github.com/aristanetworks/j2lint">aristanetworks/j2lint: ★106</a>
 * <a href="https://github.com/gmuloc/devcontainer-direnv">gmuloc/devcontainer-direnv: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
