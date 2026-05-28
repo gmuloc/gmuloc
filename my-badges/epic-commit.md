@@ -8,6 +8,7 @@ Commits:
 - <a href="https://github.com/gmuloc/anta/commit/6d4f37fa38b4a31c7a5d16714a26108e18f5fecf">6d4f37f</a>
 - <a href="https://github.com/gmuloc/anta/commit/032ca146211cf310cb6af3e1914367d56ade36dd">032ca14</a>
 - <a href="https://github.com/gmuloc/avd/commit/019ef6d5697cb03ff57d58070b50aec3be6316de">019ef6d</a>
+- <a href="https://github.com/aristanetworks/j2lint/commit/b2fdf06412e3f2767bc1b412b70e55a3a214c329">b2fdf06</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

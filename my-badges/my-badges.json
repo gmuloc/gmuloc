@@ -31,14 +31,14 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/anta/commit/4f028f565888dcfe688abff59c3f4211af25f03c\">4f028f5</a>\n- <a href=\"https://github.com/gmuloc/anta/commit/6d4f37fa38b4a31c7a5d16714a26108e18f5fecf\">6d4f37f</a>\n- <a href=\"https://github.com/gmuloc/anta/commit/032ca146211cf310cb6af3e1914367d56ade36dd\">032ca14</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/019ef6d5697cb03ff57d58070b50aec3be6316de\">019ef6d</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/anta/commit/4f028f565888dcfe688abff59c3f4211af25f03c\">4f028f5</a>\n- <a href=\"https://github.com/gmuloc/anta/commit/6d4f37fa38b4a31c7a5d16714a26108e18f5fecf\">6d4f37f</a>\n- <a href=\"https://github.com/gmuloc/anta/commit/032ca146211cf310cb6af3e1914367d56ade36dd\">032ca14</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/019ef6d5697cb03ff57d58070b50aec3be6316de\">019ef6d</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/b2fdf06412e3f2767bc1b412b70e55a3a214c329\">b2fdf06</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"co-authored-by:\".",
-    "body": "My favorite commit message words are:\n\n1. co-authored-by: (used 472 times)\n2. add (used 316 times)\n3. merge (used 301 times)\n4. update (used 277 times)\n5. pull (used 234 times)",
+    "body": "My favorite commit message words are:\n\n1. co-authored-by: (used 472 times)\n2. add (used 328 times)\n3. merge (used 305 times)\n4. update (used 277 times)\n5. pull (used 239 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
