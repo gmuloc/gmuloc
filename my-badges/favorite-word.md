@@ -4,8 +4,8 @@
 
 My favorite commit message words are:
 
-1. co-authored-by: (used 480 times)
-2. add (used 331 times)
+1. co-authored-by: (used 514 times)
+2. add (used 334 times)
 3. merge (used 314 times)
 4. update (used 280 times)
 5. pull (used 244 times)

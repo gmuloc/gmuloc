@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/gmuloc/avd/commit/2e0286a9cf44abfb0a099198561897729ae0a897">2e0286a</a>
+- <a href="https://github.com/gmuloc/avd/commit/77f173a0e8a9e9cac4edc2657e8a6b6fa164e670">77f173a</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

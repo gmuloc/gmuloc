@@ -38,7 +38,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"co-authored-by:\".",
-    "body": "My favorite commit message words are:\n\n1. co-authored-by: (used 480 times)\n2. add (used 331 times)\n3. merge (used 314 times)\n4. update (used 280 times)\n5. pull (used 244 times)",
+    "body": "My favorite commit message words are:\n\n1. co-authored-by: (used 514 times)\n2. add (used 334 times)\n3. merge (used 314 times)\n4. update (used 280 times)\n5. pull (used 244 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -80,7 +80,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd/commit/2e0286a9cf44abfb0a099198561897729ae0a897\">2e0286a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd/commit/77f173a0e8a9e9cac4edc2657e8a6b6fa164e670\">77f173a</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
@@ -129,7 +129,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/971cdba1c431a064b57a172e7bea117b8575e647\">971cdba</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/2a81ae630be5205b2d5e0180c6cff351fa5d5474\">2a81ae6</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/b8659c58555f9979b79663583e02535f695f187a\">b8659c5</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/e6c78a30a92d35780a2b1ec86d182085853c5281\">e6c78a3</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/d1434faebf054890716a6c065a348a96095e6bbf\">d1434fa</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/0a218dd02e2ffabf6e9222264ed44551d55c38c9\">0a218dd</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/971cdba1c431a064b57a172e7bea117b8575e647\">971cdba</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/2a81ae630be5205b2d5e0180c6cff351fa5d5474\">2a81ae6</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/b8659c58555f9979b79663583e02535f695f187a\">b8659c5</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/8c0ce3c4bf13b1720bad275a7f8699dcfc6390ff\">8c0ce3c</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/e6c78a30a92d35780a2b1ec86d182085853c5281\">e6c78a3</a>\n- <a href=\"https://github.com/gmuloc/avd/commit/d1434faebf054890716a6c065a348a96095e6bbf\">d1434fa</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -248,7 +248,7 @@
     "id": "st-patricks-day",
     "tier": 0,
     "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/7bd94032b11d96a16aabed6f34f20753b4eb1ea5\">7bd9403</a>\n- <a href=\"https://github.com/gmuloc/j2lint/commit/56437dbd183cf035c133503d672ac85a2f8c75c5\">56437db</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/56437dbd183cf035c133503d672ac85a2f8c75c5\">56437db</a>\n- <a href=\"https://github.com/gmuloc/j2lint/commit/78e4b5c0243d7d11fbeb08e813ebf072eefff150\">78e4b5c</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/78e4b5c0243d7d11fbeb08e813ebf072eefff150\">78e4b5c</a>\n- <a href=\"https://github.com/gmuloc/j2lint/commit/1ed5085ebd3a22841eb6527338043662e379183b\">1ed5085</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/gmuloc/avd/commit/3a7e90eb2460954ac094294e103fa10da849d86f\">3a7e90e</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/7bd94032b11d96a16aabed6f34f20753b4eb1ea5\">7bd9403</a>\n- <a href=\"https://github.com/gmuloc/j2lint/commit/56437dbd183cf035c133503d672ac85a2f8c75c5\">56437db</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/56437dbd183cf035c133503d672ac85a2f8c75c5\">56437db</a>\n- <a href=\"https://github.com/gmuloc/j2lint/commit/78e4b5c0243d7d11fbeb08e813ebf072eefff150\">78e4b5c</a>\n- <a href=\"https://github.com/aristanetworks/j2lint/commit/78e4b5c0243d7d11fbeb08e813ebf072eefff150\">78e4b5c</a>",
     "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
   },
   {
