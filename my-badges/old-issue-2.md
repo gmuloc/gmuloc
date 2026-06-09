@@ -6,6 +6,7 @@ Issues:
 
 - <a href="https://github.com/aristanetworks/avd/issues/2761">#2761</a>: Test: Fix failures in DHCP molecule for centos
 - <a href="https://github.com/aristanetworks/avd/issues/2825">#2825</a>: Doc: Reference port-channels instead of ethernet interfaces when they belong to a port channel
+- <a href="https://github.com/aristanetworks/avd/issues/3877">#3877</a>: Doc: Installation guide is not working in a straighforward way for users of OSX14
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
