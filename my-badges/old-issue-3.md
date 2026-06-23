@@ -5,6 +5,7 @@
 Issues:
 
 - <a href="https://github.com/aristanetworks/avd/issues/1770">#1770</a>: Check BGP passwords are correctly encrypted
+- <a href="https://github.com/aristanetworks/avd/issues/2742">#2742</a>: Doc: Need to update custom_structured_configuration documentation
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

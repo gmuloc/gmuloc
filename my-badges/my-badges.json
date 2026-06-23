@@ -227,7 +227,7 @@
     "id": "old-issue-3",
     "tier": 3,
     "desc": "I closed an issue that was open for 3 years",
-    "body": "Issues:\n\n- <a href=\"https://github.com/aristanetworks/avd/issues/1770\">#1770</a>: Check BGP passwords are correctly encrypted",
+    "body": "Issues:\n\n- <a href=\"https://github.com/aristanetworks/avd/issues/1770\">#1770</a>: Check BGP passwords are correctly encrypted\n- <a href=\"https://github.com/aristanetworks/avd/issues/2742\">#2742</a>: Doc: Need to update custom_structured_configuration documentation",
     "image": "https://my-badges.github.io/my-badges/old-issue-3.png"
   },
   {
