@@ -5,10 +5,10 @@
 My favorite commit message words are:
 
 1. co-authored-by: (used 514 times)
-2. add (used 334 times)
-3. merge (used 324 times)
-4. update (used 280 times)
-5. pull (used 252 times)
+2. merge (used 335 times)
+3. add (used 334 times)
+4. update (used 300 times)
+5. pull (used 261 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
